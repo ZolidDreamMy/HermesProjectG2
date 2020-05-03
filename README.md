@@ -1,1 +1,1 @@
-# HermesProjectG2
+# Hermes
